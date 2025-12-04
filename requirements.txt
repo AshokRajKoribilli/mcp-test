@@ -1,0 +1,6 @@
+google-adk
+modelcontextprotocol
+gradio_client
+Pillow
+anyio
+python-dotenv
