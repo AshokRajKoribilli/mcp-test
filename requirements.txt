@@ -4,3 +4,6 @@ gradio_client
 Pillow
 anyio
 python-dotenv
+fastapi
+uvicorn[standard]
+python-multipart
